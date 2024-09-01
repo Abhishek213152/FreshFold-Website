@@ -1,0 +1,80 @@
+.pay-container {
+  padding: 20px;
+  margin-top: 28px;
+}
+
+.billing-details {
+  margin-bottom: 20px;
+  background-color: white;
+  border-radius: 7px;
+  padding: 10px;
+}
+
+.billing-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 8px 0;
+}
+
+.billing-text {
+  font-size: 18px;
+  font-weight: 400;
+  color: gray;
+}
+
+.billing-value {
+  font-size: 18px;
+  font-weight: 400;
+  color: black;
+}
+
+.free {
+  color: #088F8F;
+}
+
+.divider {
+  border-color: gray;
+  height: 1px;
+  border-width: 0.5px;
+  margin-top: 10px;
+}
+
+.total-text {
+  font-weight: bold;
+}
+
+.total-value {
+  font-weight: bold;
+}
+
+.payment-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading-indicator {
+  font-size: 20px;
+  font-weight: bold;
+  color: blue;
+}
+
+.payment-success {
+  font-size: 20px;
+  font-weight: bold;
+  color: green;
+}
+
+.pay-button {
+  background-color: #007bff;
+  color: white;
+  padding: 16px;
+  border-radius: 50px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  width: 200px;
+  text-align: center;
+}

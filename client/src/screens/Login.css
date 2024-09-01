@@ -1,0 +1,9 @@
+@media (max-width: 966px) {
+  .left-side {
+    display: none;
+  }
+  .main-side{
+    display: flex;
+    flex-direction: column;
+  }
+}
