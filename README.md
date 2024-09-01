@@ -12,7 +12,4 @@ backend to support robust and scalable API integrations.
 ![Screenshot (23)](https://github.com/user-attachments/assets/53fceaf1-39ba-4c80-9aad-6ad8d479239b)
 
 
-![Screenshot (21)](https://github.com/user-attachments/assets/cf74f56a-1af8-4cb6-8cdd-113a22fc995c)
-
-
-![Screenshot (20)](https://github.com/user-attachments/assets/4d43734b-e07d-4c66-ada7-7843f4a7a455)
+![Screenshot (22)](https://github.com/user-attachments/assets/8a1f5821-7f28-45c2-b4a0-f47c7228b3b5)
