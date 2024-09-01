@@ -6,4 +6,4 @@ and visual appeal.
 backend to support robust and scalable API integrations.
 
 
-![WhatsApp Image 2024-09-01 at 19 31 00_ed4f88f8](https://github.com/user-attachments/assets/b8b4370b-89c9-4dfd-af21-44283bd48ea6)
+![Screenshot (19)](https://github.com/user-attachments/assets/d3bd3af9-d51f-4a9b-aaaf-b020152d48cc)
